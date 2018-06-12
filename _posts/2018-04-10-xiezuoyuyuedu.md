@@ -2,7 +2,7 @@
 layout: page
 title: 写作与阅读无关
 date: 2018-4-11
-categories: blog
+categories: [创作谈]
 tags: [创作,阅读]
 description: 那就写吧
 ---
