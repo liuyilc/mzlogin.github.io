@@ -2,7 +2,7 @@
 layout: page
 title: 评论家的快，小说家的慢
 date: 2018-4-05
-categories: blog
+categories: [创作谈]
 tags: [创作,小说]
 description: 
 ---
