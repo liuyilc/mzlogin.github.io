@@ -2,7 +2,7 @@
 layout: page
 title: 五步阅读法
 date: 2018-4-03
-categories: blog
+categories: [读书笔记]
 tags: [读书,方法论]
 description: 如何读懂（几乎）所有文本
 ---
