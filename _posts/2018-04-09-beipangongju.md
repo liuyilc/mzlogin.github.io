@@ -2,7 +2,7 @@
 layout: page
 title: 背叛工具
 date: 2018-4-09
-categories: blog
+categories: [人间观察]
 tags: [方法论,反思]
 description: 我离工具越来越远
 ---
