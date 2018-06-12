@@ -2,7 +2,7 @@
 layout: page
 title: 叙事的权利
 date: 2018-4-05
-categories: blog
+categories: [人间观察]
 tags: [偶像,观察]
 description: 偶像观的一个片段
 ---
