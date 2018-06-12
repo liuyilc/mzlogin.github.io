@@ -2,7 +2,7 @@
 layout: page
 title: 文学研究、创新与日本
 date: 2018-4-19
-categories: blog
+categories: [学术]
 tags: [感想,学术]
 description: 2018年4月18日北京师范大学王向远教授在上师大讲座的感想
 ---
