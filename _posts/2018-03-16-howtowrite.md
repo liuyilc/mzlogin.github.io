@@ -2,7 +2,7 @@
 layout: page
 title: 一小时营业方案
 date: 2018-02-09
-categories: blog
+categories: [创作谈]
 tags: [短篇小说,创作]
 description: 教你一小时完成同人短篇小说的构思
 ---
