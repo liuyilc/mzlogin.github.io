@@ -2,7 +2,7 @@
 layout: page
 title: 节奏感
 date: 2018-3-18
-categories: blog
+categories: [创作谈]
 tags: [创作,读书卡片]
 description: 业余小说家的第一课
 ---
