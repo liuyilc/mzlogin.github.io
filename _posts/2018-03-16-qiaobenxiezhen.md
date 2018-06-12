@@ -2,7 +2,7 @@
 layout: page
 title: 橋本奈々未・２０１７写真
 date: 2018-3-16
-categories: blog
+categories: [好物]
 tags: [写真,好物珍藏]
 description: 留给粉丝的最后一件礼物
 ---
