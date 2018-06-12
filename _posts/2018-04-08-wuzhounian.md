@@ -2,7 +2,7 @@
 layout: page
 title: 乃木坂46·5th year birthday live in Saitama Super Arena
 date: 2018-4-08
-categories: blog
+categories: [好物]
 tags: [演唱会,好物珍藏]
 description: 五周年live+毕业演唱会
 ---
