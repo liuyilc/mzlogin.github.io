@@ -2,7 +2,7 @@
 layout: page
 title: 没有重量的生命
 date: 2018-5-11
-categories: blog
+categories: [人间观察]
 tags: [随笔,反思]
 description: 聊一下社交帐号
 ---
