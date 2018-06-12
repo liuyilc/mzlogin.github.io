@@ -2,7 +2,7 @@
 layout: page
 title: 放弃笔记
 date: 2018-3-18
-categories: blog
+categories: [创作谈]
 tags: [创作,读书卡片]
 description: 如何积累素材
 ---
