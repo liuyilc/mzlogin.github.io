@@ -2,7 +2,7 @@
 layout: page
 title: bubka·梦百景第21期·虹之泉
 date: 2018-3-17
-categories: blog
+categories: [自娱翻译]
 tags: [翻译,杂志连载,偶像]
 description: 
 ---
