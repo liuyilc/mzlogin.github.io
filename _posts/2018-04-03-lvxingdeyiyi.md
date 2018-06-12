@@ -2,7 +2,7 @@
 layout: page
 title: 旅行的意义
 date: 2018-4-03
-categories: blog
+categories: [旅行]
 tags: [旅行]
 description: 一个地方对人的一生是不够的
 ---
