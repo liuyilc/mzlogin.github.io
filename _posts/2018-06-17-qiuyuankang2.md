@@ -2,10 +2,11 @@
 layout: page
 title: 秋元康：プロデュースの新鉱脈（2）
 date: 2018-06-17
-categories: [自娱翻译](#)
-tags: [随笔](#)
+categories: [自娱翻译]
+tags: [随笔]
 description: 
 ---
+
 
 ## project1 22/7
 
