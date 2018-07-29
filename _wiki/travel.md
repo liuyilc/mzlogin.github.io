@@ -17,10 +17,6 @@ keywords:
 
 ## 随行笔记
 
-### 寄存柜：书店、音像店及电车
+### [关西印象：分类过度](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-07-21-kansainote.md)
 
-### 健康的符号
-
-### 美的符号：金阁寺及京都、奈良诸寺庙观览
-
-### 购物之妙
+### [关西印象：乡下人](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-07-29-kyoto.md)
