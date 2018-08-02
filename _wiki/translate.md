@@ -41,8 +41,21 @@ keywords:
 
 #### [夏目漱石：文士的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-02-lifeofawriter.md)
 
+#### 宫本百合子：书斋的条件
+
+#### 宫本百合子：以书斋为中心的房屋
+
+#### 宫本百合子：祖父的书斋
 
 ----
+
+### 青空文库：日本作家论写作
+
+#### 芥川龙之介：小说作法十则 https://www.aozora.gr.jp/cards/000879/card4313.html
+
+#### 永井荷风：小说作法 https://www.aozora.gr.jp/cards/001341/card49643.html
+
+-----
 
 ### 新闻大学
 
