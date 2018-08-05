@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 文士的生活
-date: 2018-09-02
+date: 2018-08-02
 categories: [自娱翻译]
 tags: [随笔]
 description: 
