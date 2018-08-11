@@ -37,25 +37,25 @@ keywords:
 
 ----
 
-### 青空文库：作家的生活系列
+## 青空文库：作家的生活系列
 
-#### [夏目漱石：文士的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-02-lifeofawriter.md)
+### [夏目漱石：文士的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-02-lifeofawriter.md)
 
-#### [宫本百合子：以书斋为中心，打造理想之家（上）](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-04-shufang1.md)
+### [附：中村明解说夏目漱石《心》](https://kinkakufurusato.com/2018/08/11/kokoro/)
 
-
+### [宫本百合子：以书斋为中心，打造理想之家（上）](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-04-shufang1.md)
 
 ----
 
-### 青空文库：作家论写作
+## 青空文库：作家论写作
 
-#### [横光利一：作家的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-03-shiteki.md)
+### [横光利一：作家的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-03-shiteki.md)
 
 -----
 
-### 新闻大学
+## 新闻大学
 
-#### [剪报：卡片比笔记更好/剪报的苦工/分类和整理的方法](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-07-20-jianbao.md)
+### [剪报：卡片比笔记更好/剪报的苦工/分类和整理的方法](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-07-20-jianbao.md)
 
 ---
 
