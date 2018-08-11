@@ -51,6 +51,8 @@ keywords:
 
 ### [横光利一：作家的生活](https://github.com/liuyilc/mzlogin.github.io/blob/master/_posts/2018-08-03-shiteki.md)
 
+### [中原中也：和文学无关的文学者](https://kinkakufurusato.com/2018/08/09/bungakushixya/)
+
 -----
 
 ## 新闻大学
